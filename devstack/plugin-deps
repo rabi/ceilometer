@@ -1,0 +1,1 @@
+add_dep_plugin heat https://github.com/rabi/ceilometer
